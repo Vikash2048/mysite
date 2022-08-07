@@ -1,0 +1,35 @@
+body{
+  background-color: #E8F9FD;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: green;
+  font-size: 525%; /* 100% -> 16px  so 75px = 75/16*/
+}
+h2{
+  font-family: 'MOntserrat', sans-serif;
+}
+
+h3{
+  font-family: 'MOntserrat', sans-serif;
+}
+
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  position: relative;
+  left:20%;
+}
